@@ -1,0 +1,6 @@
+[submodule "OpenScreenshot"]
+	path = OpenScreenshot
+	url = git@github.com:suenot/openscreenshot.git
+[submodule "openscreenshot-landing"]
+	path = openscreenshot-landing
+	url = git@github.com:suenot/openscreenshot-landing.git
